@@ -1,1 +1,1 @@
-��# jscourse from Gordon Zhu on WatchandCode.com
+Gordon Zhu's jscourse on WatchandCode.com
